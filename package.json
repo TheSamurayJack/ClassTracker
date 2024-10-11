@@ -1,0 +1,20 @@
+{
+  "name": "class-system-manager",
+  "version": "1.0.0",
+  "description": "a system to organize your respective tasks for each subject, their priority, due date, etc.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "class",
+    "organizer",
+    "manager",
+    "school"
+  ],
+  "author": "TheSamurayJack (Jair Zhindon)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.21.1"
+  }
+}
